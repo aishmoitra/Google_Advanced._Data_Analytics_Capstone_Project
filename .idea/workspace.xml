@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="187510bb-77b5-494e-97f2-1175ec3af403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Google_Advanced_Data_Analytics_Capstone_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HR_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salifort_motors_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executive_summary.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/HR_dataset-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/README-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/executive_summary-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/salifort_motors_analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/strategy_document-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/executive_summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_document.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

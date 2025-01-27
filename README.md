@@ -68,9 +68,7 @@ Salifort Motors is facing challenges with employee retention. This project uses 
 ### Files Included:
 - **`salifort_motors_analysis.ipynb`**:
   - Full analysis notebook containing data preprocessing, EDA, and modeling.
-- **`strategy_document.md`**:
-  - Detailed strategy document outlining project objectives and workflow.
-- **`executive_summary.md`**:
+- **`executive_summary.pdf`**:
   - High-level summary of findings and recommendations for stakeholders.
 
 ### Steps to Reproduce:

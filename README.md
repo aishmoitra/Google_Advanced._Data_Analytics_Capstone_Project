@@ -3,14 +3,10 @@
 ## Overview
 Salifort Motors is facing challenges with employee retention. This project uses data analytics and machine learning techniques to identify the factors contributing to employee turnover and provide actionable recommendations for reducing attrition.
 
----
-
 ## Project Goals
 1. Analyze historical employee data to understand the drivers of attrition.
 2. Build predictive models to identify employees most at risk of leaving.
 3. Deliver actionable recommendations to improve HR policies and workplace culture.
-
----
 
 ## Dataset
 
@@ -30,8 +26,6 @@ Salifort Motors is facing challenges with employee retention. This project uses 
 - `promotion_last_5years`: Promotions in the last 5 years.
 - `Department`: Employee's department.
 - `salary`: Employee salary category (low, medium, high).
-
----
 
 ## Analysis Process
 
@@ -61,8 +55,6 @@ Salifort Motors is facing challenges with employee retention. This project uses 
 - Communicate performance expectations and provide proportionate rewards.
 - Regularly review and adjust salary structures to retain top talent.
 
----
-
 ## How to Use This Repository
 
 ### Files Included:
@@ -70,6 +62,8 @@ Salifort Motors is facing challenges with employee retention. This project uses 
   - Full analysis notebook containing data preprocessing, EDA, and modeling.
 - **`executive_summary.pdf`**:
   - High-level summary of findings and recommendations for stakeholders.
+- **`project_proposal.pdf`**:
+  - Project proposal highlighting steps to analyze employee attrition at Salifort Motors.
 
 ### Steps to Reproduce:
 1. Clone the repository.
